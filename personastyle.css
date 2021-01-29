@@ -1,0 +1,132 @@
+h1 {
+	color : black;
+	font-size : 50px;
+	text-align : center;
+	font-family: "Monotype Corsiva" Cursive;
+
+}
+html {
+	margin : 0;
+	padding:  : 0;
+}
+body {
+	background-image : url(directory/newback.png);
+	background-repeat : no-repeat;
+	background-size : cover;
+	min-height: 100%;
+	margin : 0;
+	padding:  : 0;
+}
+.center {
+	display : block;
+	margin-left : auto;
+	margin-right : auto;
+	width : 25%;
+	margin-top : 45px;
+}
+#keste {
+	position : relative;
+	bottom : 430px;
+	font-size : 32px;
+	margin-left : 25px;
+}
+#contacts {
+
+	margin-left : 1100px;
+	position : relative ;
+	bottom : 700px;
+	font-size : 32px;
+
+}
+#spec {
+	text-align : center ;
+	color : black;
+	background-color : #b3b3ff;
+	padding-top : 7px;
+	padding-bottom : 7px;
+	font-size : 30px;
+	margin : auto;
+	margin-left : 250px;
+	margin-right : 250px;
+	border : 7px solid #8533ff;
+	border-radius : 70px;
+}
+a {
+	color : blue;
+}
+#personaldata {
+	position : relative;
+	font-size : 45px;
+	bottom : 400px;
+}
+
+#hobbies {
+	text-align : center ;
+	color : black;
+	background-color : #b3b3ff;
+	padding-top : 14px;
+	padding-bottom : 14px;
+	font-size : 30px;
+	margin-left : 250px;
+	margin-right : 250px;
+	border : 7px solid #8533ff;
+	border-radius : 70px;
+
+
+}
+#animesig {
+	position : relative ;
+	bottom : 300px;
+	left : 80px;
+	border : 7px solid #b3b3ff;
+	border-radius : 100px;
+	margin-right : 1500px;
+	font-size : 25px;
+	text-align : center;
+}
+#debatesig {
+	position : relative;
+	bottom : 570px;
+	left : 730px;
+	border : 7px solid #b3b3ff;
+	border-radius : 100px;
+	margin-right : 1500px;
+	font-size : 25px;
+	text-align : center;
+}
+#coffeesig {
+	position : relative;
+	bottom : 880px;
+	left : 1330px;
+	border : 7px solid #b3b3ff;
+	border-radius : 100px;
+	margin-right : 1500px;
+	font-size : 25px;
+	text-align : center;
+}
+
+#animeshnik {
+	position : relative ;
+	bottom : 580px;
+	left : 50px;
+	border : 7px solid #b3b3ff;
+	border-radius : 100px;
+}
+#debater {
+	position : relative;
+	bottom : 870px;
+	left : 680px;
+	border : 7px solid #b3b3ff;
+	border-radius : 100px;
+}
+#coffeeman {
+	position : relative;
+	bottom : 1200px;
+	left : 1300px;
+	border : 7px solid #b3b3ff;
+	border-radius : 100px;
+}
+
+#knopka {
+
+}
